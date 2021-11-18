@@ -1,0 +1,32 @@
+.check{
+    color: blueviolet;
+    background-color: blueviolet;
+    margin-left: 2px;
+    margin-top: 5px;
+}
+.table
+{font-style: italic;}
+.heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    color: burlywood;
+}
+body{
+    background-image: url("image/1624848.jpg");
+    height: 700px; /* You must set a specified height */
+   
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+h1{
+  
+    padding-top: 35px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight:800;
+    
+}
